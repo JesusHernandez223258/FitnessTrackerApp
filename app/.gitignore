@@ -1,0 +1,30 @@
+# Directorios del sistema
+.gradle/
+.idea/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Archivos de configuración local
+local.properties
+
+# Salida de compilación
+*.apk
+*.ap_
+*.aab
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+
+# Archivos generados por el sistema
+*.iml
+*.class
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos del entorno de ejecución
+*.keystore
