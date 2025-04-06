@@ -1,0 +1,34 @@
+# Directorios y archivos de compilación
+.gradle/
+build/
+**/build/
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Archivos de configuración del IDE (Android Studio / IntelliJ)
+.idea/
+*.iml
+
+# Archivos de configuración local
+local.properties
+
+# Archivos de salida de compilación
+*.apk
+*.ap_
+*.aab
+
+# Archivos de registro y temporales
+*.log
+*.tmp
+
+# Archivos generados por el sistema
+*.class
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos del entorno de ejecución
+*.keystore
+gradle-wrapper.jar
